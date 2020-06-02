@@ -1,10 +1,10 @@
-##Setup instruction 
+###As OpenID Provider Server this project using Keycloak  
 
-As OpenID Provider Server this project using Keycloak  
+##Setup instruction 
 
 1. Run the following command
 ```
-docker-compose -f keycloak-compose.yml up -d
+$ docker-compose -f keycloak-compose.yml up -d
 ```
 2. Goto http://localhost:8181/auth/
 3. Goto Admin Console
