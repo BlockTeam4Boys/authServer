@@ -13,8 +13,7 @@ $ docker-compose -f keycloak-compose.yml up -d
  ```
 https://medium.com/@bcarunmail/securing-rest-api-using-keycloak-and-spring-oauth2-6ddf3a1efcc2
 ```
-**Set http://localhost:8085 as url**
-**Set digitaldocs-service as client name**
+**Set http://localhost:8085 as url and digitaldocs-service as client name**
 
 Your secret can be available here http://localhost:8181/auth/admin/master/console/#/realms/digitaldocs/clients
 Just open your client and go to credentials
