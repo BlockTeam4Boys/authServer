@@ -1,5 +1,6 @@
 ##Setup instruction 
-Keycloak is certified **OpenID Provider Servers** 
+
+As OpenID Provider Server this project using Keycloak  
 
 1. Run the following command
 ```
